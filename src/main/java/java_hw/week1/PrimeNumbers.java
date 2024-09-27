@@ -1,4 +1,4 @@
-package java_hw;
+package java_hw.week1;
 
 public class PrimeNumbers {
     public static void main(String[] args) {
