@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Sorting {
+public interface Sorting {
+    void sort();
 }

@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class BubbleSort {
+public class BubbleSort implements Sorting{
+    @Override
+    public void sort() {
+        System.out.println("Bubblesorting");
+    }
 }

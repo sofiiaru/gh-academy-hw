@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class QuickSort {
+public class QuickSort implements Sorting{
+
+    @Override
+    public void sort() {
+        System.out.println("Quicksorting");
+    }
 }
