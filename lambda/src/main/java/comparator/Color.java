@@ -1,2 +1,5 @@
-package comparator;public enum Color {
+package comparator;
+
+public enum Color {
+    RED, GREEN;
 }

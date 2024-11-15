@@ -1,2 +1,11 @@
-package comparator;public class Apple {
+package comparator;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class Apple {
+    private int weight;
+    private Color color;
 }

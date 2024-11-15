@@ -1,2 +1,5 @@
-package doublecolon;public interface Calculate {
+package doublecolon;
+
+public interface Calculate {
+    void calculate(int x, int y);
 }
