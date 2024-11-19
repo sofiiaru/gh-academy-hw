@@ -3,9 +3,8 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Dish {
+public class Trader {
+
     private String name;
-    private boolean vegetarian;
-    private int calories;
-    private Type type;
+    private String city;
 }

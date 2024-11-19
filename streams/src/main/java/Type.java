@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Type {
+public enum Type {
+    MEAT, FISH, OTHER;
 }
